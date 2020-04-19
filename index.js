@@ -1,7 +1,7 @@
 
   var canvas_width = window.innerWidth;
   var canvas_height = window.innerHeight;
-  var gameWidth = 100000;
+  var gameWidth = 10000;
   var gameHeight = 10000;
   var V = SAT.Vector;
   var P = SAT.Polygon;
